@@ -1,3 +1,11 @@
+David Anderson, CS270 Assignment 9
+
+Description:  Event Calendar application.  Set up models, migrations, and controllers.
+
+Input:  N/A
+
+Output:  N/A
+
 CS 270 Assignment 9
 ===================
 
